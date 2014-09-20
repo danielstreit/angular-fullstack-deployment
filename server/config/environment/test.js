@@ -5,6 +5,6 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/whatisit-test'
+    uri: 'mongodb://localhost/angularfullstackdeployment-test'
   }
 };
